@@ -1,38 +1,4 @@
-# Gemini ile çalışma günlüğü
-
-Beş başlığın beşi de zorunludur; başlıkları değiştirmeyin. Her başlığın altına yazdığınız istemi,
-aldığınız cevabın iki cümlelik özetini ve "Doğruladım mı, nasıl:" satırını yazın.
-
-## 1. Zayıf ve güçlü istem
-
-- Zayıf istem:
-- Güçlü istem (rol, görev, biçim, bağlam):
-- İki cevap arasındaki fark:
-- Doğruladım mı, nasıl:
-
-## 2. Java Hocam becerisi
-
-- Beceriler menüsüne yazdığım talimat:
-- Ona sorduğum ilk soru ve cevabının özeti:
-- Doğruladım mı, nasıl:
-
-## 3. Sorguya çekilme
-
-- İstem:
-- Sorulan beş sorudan en zorlandığım:
-- Değerlendirmesinde en zayıf noktam:
-- Doğruladım mı, nasıl:
-
-## 4. Hata mesajı protokolü
-
-- Bilerek bozduğum satır ve aldığım hata mesajı:
-- Yapıştırdığım istem (hata + 10 satır + ne denedim):
-- Verdiği ipucu ve benim düzeltmem:
-- Doğruladım mı, nasıl:
-
-## 5. Kodumu anlattım
-
-- Hangi dosyayı anlattırdım:
-- "Düzeltme, yalnızca anlat" istemim:
-- Anlatımda yanlış ya da eksik bulduğum yer:
-- Doğruladım mı, nasıl:
+1. Kullanacağınız İstem (Kopyalayıp Yapıştırın)
+Sen uzman bir Java eğitmenisin ("Java Hocam"). Derslerde işlenen konuları, switch yapılarını ve karar mekanizmalarını yeni başlayan bir öğrencinin kolayca anlayabileceği şekilde, net kod örnekleri ve kısa açıklamalarla anlatmanı istiyorum. Şimdi bana bu haftanın ana konusu olan switch yapısının temel mantığını açıklar mısın?
+2. Cevabın Özeti (Örnek Taslak)
+"Java Hocam" becerisini etkinleştirerek ilk sorumu sorduğumda, asistan konuyu adım adım, anlaşılır kod blokları ve maddeler halinde yapılandırarak açıkladı. Varsayılan kural şablonundaki tonu kendime daha samimi ve pratik odaklı olacak şekilde uyarladım; çünkü teorik anlatımlardan ziyade doğrudan kod üzerinde çalışmayı ve mantığı kavramayı daha faydalı buluyorum.…
